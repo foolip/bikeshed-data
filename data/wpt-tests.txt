@@ -1,4 +1,4 @@
-sha: 16ddb73a6251af3957efdbd6409b87a9c8cf6e50
+sha: 274abf218e780afa74ea6b8ac30e77c081c8a2d2
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
@@ -19973,7 +19973,7 @@ testharness 2dcontext/wide-gamut-canvas/imageData-colorManagedBehavior.html
 testharness 2dcontext/wide-gamut-canvas/imageData-colorSpace.html
 testharness 2dcontext/wide-gamut-canvas/imagedata-no-color-settings-crash.html
 testharness 2dcontext/wide-gamut-canvas/transferFromImageBitmap.html
-testharness BackgroundSync/interfaces.https.any.js
+testharness BackgroundSync/idlharness.https.any.js
 testharness BackgroundSync/periodicsync.https.window.js
 testharness FileAPI/FileReader/Progress_event_bubbles_cancelable.html
 testharness FileAPI/FileReader/workers.html
@@ -23457,7 +23457,7 @@ testharness css/css-typed-om/declared-styleMap-accepts-inherit.html
 testharness css/css-typed-om/factory-absolute-length.html
 testharness css/css-typed-om/factory-duration.html
 testharness css/css-typed-om/factory-frequency.html
-testharness css/css-typed-om/interfaces.html
+testharness css/css-typed-om/idlharness.html
 testharness css/css-typed-om/set-var-reference-crash.html
 testharness css/css-typed-om/stylevalue-normalization/normalize-ident.tentative.html
 testharness css/css-typed-om/stylevalue-normalization/normalize-image.html
@@ -24043,8 +24043,8 @@ testharness css/cssom-view/getClientRects-br-vrl-ltr.html
 testharness css/cssom-view/getClientRects-br-vrl-rtl.html
 testharness css/cssom-view/historical.html
 testharness css/cssom-view/htmlelement-offset-width-001.html
+testharness css/cssom-view/idlharness.html
 testharness css/cssom-view/inheritance.html
-testharness css/cssom-view/interfaces.html
 testharness css/cssom-view/matchMedia-display-none-iframe.html
 testharness css/cssom-view/matchMedia.xht
 testharness css/cssom-view/matchMediaAddListener.html
@@ -24176,13 +24176,13 @@ testharness css/cssom/getComputedStyle-resolved-min-max-clamping.html
 testharness css/cssom/getComputedStyle-sticky-pos-percent.html
 testharness css/cssom/getComputedStyle-width-scroll.tentative.html
 testharness css/cssom/historical.html
+testharness css/cssom/idlharness.html
 testharness css/cssom/inline-style-001.html
 testharness css/cssom/insertRule-charset-no-index.html
 testharness css/cssom/insertRule-import-no-index.html
 testharness css/cssom/insertRule-namespace-no-index.html
 testharness css/cssom/insertRule-no-index.html
 testharness css/cssom/insertRule-syntax-error-01.html
-testharness css/cssom/interfaces.html
 testharness css/cssom/medialist-interfaces-001.html
 testharness css/cssom/medialist-interfaces-002.html
 testharness css/cssom/medialist-interfaces-003.html
@@ -24216,8 +24216,8 @@ testharness css/filter-effects/animation/filter-interpolation-001.html
 testharness css/filter-effects/animation/filter-interpolation-002.html
 testharness css/filter-effects/animation/filter-interpolation-003.html
 testharness css/filter-effects/animation/filter-interpolation-004.html
+testharness css/filter-effects/idlharness.any.js
 testharness css/filter-effects/inheritance.html
-testharness css/filter-effects/interfaces.any.js
 testharness css/filter-effects/parsing/backdrop-filter-computed.html
 testharness css/filter-effects/parsing/backdrop-filter-parsing-invalid.html
 testharness css/filter-effects/parsing/backdrop-filter-parsing-valid.html
@@ -24802,6 +24802,7 @@ testharness domparsing/DOMParser-parseFromString-xml-parsererror.html
 testharness domparsing/DOMParser-parseFromString-xml.html
 testharness domparsing/XMLSerializer-serializeToString.html
 testharness domparsing/createContextualFragment.html
+testharness domparsing/idlharness.window.js
 testharness domparsing/innerhtml-01.xhtml
 testharness domparsing/innerhtml-03.xhtml
 testharness domparsing/innerhtml-04.html
@@ -24812,7 +24813,6 @@ testharness domparsing/innerhtml-mxss.sub.html
 testharness domparsing/insert-adjacent.html
 testharness domparsing/insert_adjacent_html-xhtml.xhtml
 testharness domparsing/insert_adjacent_html.html
-testharness domparsing/interfaces.any.js
 testharness domparsing/outerhtml-01.html
 testharness domparsing/outerhtml-02.html
 testharness domparsing/style_attribute_html.html
@@ -25372,7 +25372,7 @@ testharness fetch/api/headers/headers-normalize.html
 testharness fetch/api/headers/headers-record.html
 testharness fetch/api/headers/headers-structure.html
 testharness fetch/api/headers/historical.any.js
-testharness fetch/api/idl.any.js
+testharness fetch/api/idlharness.any.js
 testharness fetch/api/policies/csp-blocked-worker.html
 testharness fetch/api/policies/csp-blocked.html
 testharness fetch/api/policies/referrer-no-referrer-service-worker.https.html
@@ -26044,8 +26044,8 @@ testharness html/dom/elements/the-innertext-idl-attribute/getter.html
 testharness html/dom/elements/the-innertext-idl-attribute/multiple-text-nodes.window.js
 testharness html/dom/elements/the-innertext-idl-attribute/setter.html
 testharness html/dom/historical.html
-testharness html/dom/interfaces.https.html
-testharness html/dom/interfaces.worker.js
+testharness html/dom/idlharness.https.html
+testharness html/dom/idlharness.worker.js
 testharness html/dom/reflection-embedded.html
 testharness html/dom/reflection-forms.html
 testharness html/dom/reflection-grouping.html
@@ -30481,7 +30481,7 @@ testharness performance-timeline/po-takeRecords.any.js
 testharness performance-timeline/supportedEntryTypes.any.js
 testharness performance-timeline/webtiming-resolution.any.js
 testharness performance-timeline/worker-with-performance-observer.html
-testharness permissions/interfaces.any.js
+testharness permissions/idlharness.any.js
 testharness permissions/test-background-fetch-permission.html
 testharness picture-in-picture/css-selector.html
 testharness picture-in-picture/disable-picture-in-picture.html
@@ -30577,7 +30577,7 @@ testharness pointerevents/pointerlock/pointerevent_pointerlock_supercedes_captur
 testharness pointerevents/pointerlock/pointerevent_pointermove_in_pointerlock.html
 testharness pointerevents/pointerlock/pointerevent_pointermove_on_chorded_mouse_button_when_locked.html
 testharness pointerlock/constructor.html
-testharness pointerlock/interfaces.window.js
+testharness pointerlock/idlharness.window.js
 testharness pointerlock/mouse_buttons_back_forward.html
 testharness pointerlock/movementX_Y_basic.html
 testharness pointerlock/pointerlock_remove_target.html
