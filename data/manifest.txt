@@ -1,4 +1,4 @@
-2019-08-29 19:39:21.027186
+2019-08-29 20:39:15.218085
 d799b20b4a24756666e467ab065dda8b fors.json
 9e4195faa2d230342621b63dc37b6dd9 specs.json
 0bc1c60bc9dc1e9357d27a3bba81a9f5 methods.json
@@ -122,7 +122,7 @@ ef7ad73ce958811be389935fda2dda5d anchors/anchors-fa.data
 274356c92961c9e6ca8900a4b7a6d1ce anchors/anchors-fi.data
 63b06921aa32449dce7423388a3c0a44 anchors/anchors-fl.data
 48bbaea642f324aa2eb84fd43c33ce67 anchors/anchors-fn.data
-3d3ed86375b00a58384880ac83f97bcf anchors/anchors-fo.data
+92c82762c06b78aeca2ec1b3c698cf5b anchors/anchors-fo.data
 a7efed49026952598bcbaf26cb0c52ed anchors/anchors-fr.data
 5182e363baac51c73a504cf00b4be626 anchors/anchors-ft.data
 3c24a200c9c9f8278036f2eec5c46d0b anchors/anchors-fu.data
@@ -1224,7 +1224,7 @@ b07b3b0e3c17d8b51a88e126c129f4c3 headings/headings-css-easing-1.json
 8c335b3c4e8d72638b9a092f7e9031f8 headings/headings-css-flexbox-1.json
 f8faad9f209c310fda417e12c39265bd headings/headings-css-font-loading-3.json
 c2c8d9158fc08cdf04d87e8c454c2839 headings/headings-css-fonts-3.json
-f398fd1844ce19438ff803d1810a2e93 headings/headings-css-fonts-4.json
+6d016952a2be3b4d69568633664c0744 headings/headings-css-fonts-4.json
 4b8468e8c19535a6e8992cd11a2185bb headings/headings-css-forms-1.json
 b7185ea5ee038a4346bc669ed6443428 headings/headings-css-gcpm-3.json
 79ef1dd29eac181e34a7a4dcc6e4d26c headings/headings-css-gcpm-4.json
