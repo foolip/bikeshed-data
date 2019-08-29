@@ -1,4 +1,4 @@
-sha: c417f6d8f332d8c0f35bb67e9c58c0cfeb4ce291
+sha: 16ddb73a6251af3957efdbd6409b87a9c8cf6e50
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
@@ -18421,6 +18421,7 @@ reftest html/rendering/bindings/the-textarea-element-0/rows-default.html
 reftest html/rendering/bindings/the-textarea-element-0/rows-zero.html
 reftest html/rendering/non-replaced-elements/flow-content-0/div-align.html
 reftest html/rendering/non-replaced-elements/flow-content-0/figure.html
+reftest html/rendering/non-replaced-elements/form-controls/text-transform.html
 reftest html/rendering/non-replaced-elements/lists/li-type-supported-xhtml.xhtml
 reftest html/rendering/non-replaced-elements/lists/li-type-supported.html
 reftest html/rendering/non-replaced-elements/lists/li-type-unsupported-lower-alpha.html
@@ -23984,24 +23985,6 @@ testharness css/css-writing-modes/text-combine-upright-parsing-invalid-002.html
 testharness css/css-writing-modes/text-combine-upright-parsing-valid-001.html
 testharness css/css-writing-modes/text-orientation-parsing-001.html
 testharness css/css-writing-modes/text-orientation-parsing-sideways-right-001.html
-testharness css/css-writing-modes/text-orientation-script-001.html
-testharness css/css-writing-modes/text-orientation-script-001a.html
-testharness css/css-writing-modes/text-orientation-script-001b.html
-testharness css/css-writing-modes/text-orientation-script-001c.html
-testharness css/css-writing-modes/text-orientation-script-001d.html
-testharness css/css-writing-modes/text-orientation-script-001e.html
-testharness css/css-writing-modes/text-orientation-script-001f.html
-testharness css/css-writing-modes/text-orientation-script-001g.html
-testharness css/css-writing-modes/text-orientation-script-001h.html
-testharness css/css-writing-modes/text-orientation-script-001i.html
-testharness css/css-writing-modes/text-orientation-script-001j.html
-testharness css/css-writing-modes/text-orientation-script-001k.html
-testharness css/css-writing-modes/text-orientation-script-001l.html
-testharness css/css-writing-modes/text-orientation-script-001m.html
-testharness css/css-writing-modes/text-orientation-script-001n.html
-testharness css/css-writing-modes/text-orientation-script-001o.html
-testharness css/css-writing-modes/text-orientation-script-001p.html
-testharness css/css-writing-modes/text-orientation-script-001q.html
 testharness css/css-writing-modes/unicode-bidi-parsing-001.html
 testharness css/css-writing-modes/unicode-bidi-parsing-002.html
 testharness css/css-writing-modes/wm-propagation-body-computed-root.html
@@ -24798,6 +24781,7 @@ testharness dom/ranges/Range-selectNode.html
 testharness dom/ranges/Range-set.html
 testharness dom/ranges/Range-stringifier.html
 testharness dom/ranges/Range-surroundContents.html
+testharness dom/ranges/StaticRange-constructor.html
 testharness dom/traversal/NodeFilter-constants.html
 testharness dom/traversal/NodeIterator-removal.html
 testharness dom/traversal/NodeIterator.html
@@ -24923,6 +24907,7 @@ testharness element-timing/progressively-loaded-image.html
 testharness element-timing/rectangular-image.html
 testharness element-timing/retrievability.html
 testharness element-timing/supported-element-type.html
+testharness element-timing/text-with-display-style.html
 testharness element-timing/toJSON.html
 testharness encoding/api-basics.any.js
 testharness encoding/api-invalid-label.any.js
@@ -26170,6 +26155,7 @@ testharness html/rendering/non-replaced-elements/flow-content-0/dialog-display.h
 testharness html/rendering/non-replaced-elements/flow-content-0/dialog.html
 testharness html/rendering/non-replaced-elements/flow-content-0/form-margin-quirk.html
 testharness html/rendering/non-replaced-elements/form-controls/button-style.html
+testharness html/rendering/non-replaced-elements/form-controls/resets.html
 testharness html/rendering/non-replaced-elements/margin-collapsing-quirks/multicol-quirks-mode.html
 testharness html/rendering/non-replaced-elements/margin-collapsing-quirks/multicol-standards-mode.html
 testharness html/rendering/non-replaced-elements/phrasing-content-0/font-element-text-decoration-color/font-face.html
@@ -26767,6 +26753,7 @@ testharness html/semantics/embedded-content/the-iframe-element/sandbox_030.htm
 testharness html/semantics/embedded-content/the-iframe-element/sandbox_031.htm
 testharness html/semantics/embedded-content/the-iframe-element/sandbox_032.htm
 testharness html/semantics/embedded-content/the-iframe-element/src-repeated-in-ancestor.html
+testharness html/semantics/embedded-content/the-iframe-element/srcdoc_change_hash.html
 testharness html/semantics/embedded-content/the-iframe-element/srcdoc_process_attributes.html
 testharness html/semantics/embedded-content/the-img-element/404-response-with-actual-image-data.html
 testharness html/semantics/embedded-content/the-img-element/Image-constructor.html
@@ -27995,6 +27982,7 @@ testharness largest-contentful-paint/observe-image.html
 testharness largest-contentful-paint/observe-text.html
 testharness largest-contentful-paint/repeated-image.html
 testharness largest-contentful-paint/supported-lcp-type.html
+testharness largest-contentful-paint/text-with-display-style.html
 testharness largest-contentful-paint/toJSON.html
 testharness layout-instability/buffer-layout-shift.html
 testharness layout-instability/buffered-flag.html
