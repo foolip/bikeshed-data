@@ -1232,6 +1232,17 @@ https://drafts.csswg.org/css-inline-3/#valdef-leading-trim-under-ideographic-ink
 1
 leading-trim-under
 -
+ideographic-space
+value
+css-text-4
+css-text
+4
+current
+https://drafts.csswg.org/css-text-4/#valdef-word-boundary-expansion-ideographic-space
+1
+1
+word-boundary-expansion
+-
 ideographicBaseline
 attribute
 html

@@ -9391,6 +9391,7 @@
     "violation report", 
     "violet", 
     "virtual scoping root", 
+    "virtual word boundary", 
     "visibility", 
     "visibility state", 
     "visible character", 
@@ -9495,6 +9496,8 @@
     "within scope of a manifest", 
     "within-scope-manifest", 
     "word separator", 
+    "word-boundary-detection", 
+    "word-boundary-expansion", 
     "word-break", 
     "word-separator character", 
     "word-spacing", 
@@ -23489,6 +23492,17 @@
   "windoworworkerglobalscope": [
     "performance", 
     "windoworworkerglobalscope.performance"
+  ], 
+  "word-boundary-detection": [
+    "<lang>", 
+    "auto(<lang>)", 
+    "manual", 
+    "normal"
+  ], 
+  "word-boundary-expansion": [
+    "ideographic-space", 
+    "none", 
+    "space"
   ], 
   "word-break": [
     "break-all", 
