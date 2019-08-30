@@ -1361,6 +1361,17 @@ https://drafts.css-houdini.org/css-typed-om-1/#single-valued-properties
 1
 1
 -
+singleNodeValue
+attribute
+dom
+dom
+1
+snapshot
+https://dom.spec.whatwg.org/#dom-xpathresult-singlenodevalue
+1
+1
+XPathResult
+-
 site storage
 dfn
 storage

@@ -678,6 +678,33 @@ https://dom.spec.whatwg.org/#concept-document-type
 Document
 -
 type
+argument
+dom
+dom
+1
+snapshot
+https://dom.spec.whatwg.org/#dom-xpathexpression-evaluate-contextnode-type-result-type
+1
+1
+XPathExpression/evaluate(contextNode, type, result)
+XPathExpression/evaluate(contextNode, type)
+XPathExpression/evaluate(contextNode)
+-
+type
+argument
+dom
+dom
+1
+snapshot
+https://dom.spec.whatwg.org/#dom-xpathevaluatorbase-evaluate-expression-contextnode-resolver-type-result-type
+1
+1
+XPathEvaluatorBase/evaluate(expression, contextNode, resolver, type, result)
+XPathEvaluatorBase/evaluate(expression, contextNode, resolver, type)
+XPathEvaluatorBase/evaluate(expression, contextNode, resolver)
+XPathEvaluatorBase/evaluate(expression, contextNode)
+-
+type
 dfn
 fetch
 fetch

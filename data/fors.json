@@ -1519,6 +1519,7 @@
     "SpatialNavigationDirection", 
     "SpatialNavigationSearchOptions", 
     "StaticRange", 
+    "StaticRangeInit", 
     "Storage", 
     "StorageEstimate", 
     "StorageEvent", 
@@ -1715,6 +1716,11 @@
     "XMLHttpRequestEventTarget", 
     "XMLHttpRequestResponseType", 
     "XMLHttpRequestUpload", 
+    "XPathEvaluator", 
+    "XPathEvaluatorBase", 
+    "XPathExpression", 
+    "XPathNSResolver", 
+    "XPathResult", 
     "[<length> | <percentage>]{2}", 
     "[[CancelSteps]]", 
     "[[PullSteps]]", 
@@ -3642,6 +3648,7 @@
     "define the static operations", 
     "define the unforgeable regular attributes", 
     "define the unforgeable regular operations", 
+    "define(name, constructor, options)", 
     "defined", 
     "defined property name", 
     "defining term", 
@@ -9455,7 +9462,6 @@
     "white space", 
     "white space characters", 
     "white-space", 
-    "white_space characters", 
     "whitesmoke", 
     "whitespace", 
     "whitespace byte", 
@@ -12285,7 +12291,6 @@
     "credential"
   ], 
   "CustomElementRegistry": [
-    "define(name, constructor)", 
     "get(name)", 
     "upgrade(root)", 
     "whenDefined(name)"
@@ -13303,20 +13308,16 @@
     "createComment(data)", 
     "createDocumentFragment()", 
     "createElement(localName)", 
-    "createElement(localName, options)", 
     "createElementNS(namespace, qualifiedName)", 
-    "createElementNS(namespace, qualifiedName, options)", 
     "createEntityReference()", 
     "createEvent(interface)", 
     "createNodeIterator(root)", 
     "createNodeIterator(root, whatToShow)", 
-    "createNodeIterator(root, whatToShow, filter)", 
     "createProcessingInstruction(target, data)", 
     "createRange()", 
     "createTextNode(data)", 
     "createTreeWalker(root)", 
     "createTreeWalker(root, whatToShow)", 
-    "createTreeWalker(root, whatToShow, filter)", 
     "csp list", 
     "currentScript", 
     "defaultView", 
@@ -13348,7 +13349,6 @@
     "images", 
     "implementation", 
     "importNode(node)", 
-    "importNode(node, deep)", 
     "inputEncoding", 
     "lastModified", 
     "layoutNow", 
@@ -17876,6 +17876,18 @@
     "container", 
     "dir"
   ], 
+  "StaticRange": [
+    "StaticRange(init)"
+  ], 
+  "StaticRange/StaticRange(init)": [
+    "init"
+  ], 
+  "StaticRangeInit": [
+    "endContainer", 
+    "endOffset", 
+    "startContainer", 
+    "startOffset"
+  ], 
   "Storage": [
     "clear()", 
     "getItem(key)", 
@@ -19125,6 +19137,115 @@
     "\"document\"", 
     "\"json\"", 
     "\"text\""
+  ], 
+  "XPathEvaluator": [
+    "Constructor", 
+    "XPathEvaluator()"
+  ], 
+  "XPathEvaluatorBase": [
+    "createExpression", 
+    "createExpression(expression)", 
+    "createExpression(expression, resolver)", 
+    "createNSResolver", 
+    "createNSResolver(nodeResolver)", 
+    "evaluate", 
+    "evaluate(expression, contextNode)", 
+    "evaluate(expression, contextNode, resolver)", 
+    "evaluate(expression, contextNode, resolver, type)", 
+    "evaluate(expression, contextNode, resolver, type, result)"
+  ], 
+  "XPathEvaluatorBase/createExpression(expression)": [
+    "expression", 
+    "resolver"
+  ], 
+  "XPathEvaluatorBase/createExpression(expression, resolver)": [
+    "expression", 
+    "resolver"
+  ], 
+  "XPathEvaluatorBase/createNSResolver(nodeResolver)": [
+    "nodeResolver"
+  ], 
+  "XPathEvaluatorBase/evaluate(expression, contextNode)": [
+    "contextNode", 
+    "expression", 
+    "resolver", 
+    "result", 
+    "type"
+  ], 
+  "XPathEvaluatorBase/evaluate(expression, contextNode, resolver)": [
+    "contextNode", 
+    "expression", 
+    "resolver", 
+    "result", 
+    "type"
+  ], 
+  "XPathEvaluatorBase/evaluate(expression, contextNode, resolver, type)": [
+    "contextNode", 
+    "expression", 
+    "resolver", 
+    "result", 
+    "type"
+  ], 
+  "XPathEvaluatorBase/evaluate(expression, contextNode, resolver, type, result)": [
+    "contextNode", 
+    "expression", 
+    "resolver", 
+    "result", 
+    "type"
+  ], 
+  "XPathExpression": [
+    "evaluate", 
+    "evaluate(contextNode)", 
+    "evaluate(contextNode, type)", 
+    "evaluate(contextNode, type, result)"
+  ], 
+  "XPathExpression/evaluate(contextNode)": [
+    "contextNode", 
+    "result", 
+    "type"
+  ], 
+  "XPathExpression/evaluate(contextNode, type)": [
+    "contextNode", 
+    "result", 
+    "type"
+  ], 
+  "XPathExpression/evaluate(contextNode, type, result)": [
+    "contextNode", 
+    "result", 
+    "type"
+  ], 
+  "XPathNSResolver": [
+    "lookupNamespaceURI", 
+    "lookupNamespaceURI(prefix)"
+  ], 
+  "XPathNSResolver/lookupNamespaceURI(prefix)": [
+    "prefix"
+  ], 
+  "XPathResult": [
+    "ANY_TYPE", 
+    "ANY_UNORDERED_NODE_TYPE", 
+    "BOOLEAN_TYPE", 
+    "FIRST_ORDERED_NODE_TYPE", 
+    "NUMBER_TYPE", 
+    "ORDERED_NODE_ITERATOR_TYPE", 
+    "ORDERED_NODE_SNAPSHOT_TYPE", 
+    "STRING_TYPE", 
+    "UNORDERED_NODE_ITERATOR_TYPE", 
+    "UNORDERED_NODE_SNAPSHOT_TYPE", 
+    "booleanValue", 
+    "invalidIteratorState", 
+    "iterateNext", 
+    "iterateNext()", 
+    "numberValue", 
+    "resultType", 
+    "singleNodeValue", 
+    "snapshotItem", 
+    "snapshotItem(index)", 
+    "snapshotLength", 
+    "stringValue"
+  ], 
+  "XPathResult/snapshotItem(index)": [
+    "index"
   ], 
   "a": [
     "download", 

@@ -1268,6 +1268,32 @@ https://heycam.github.io/webidl/#dfn-exposure-set
 1
 1
 -
+expression
+argument
+dom
+dom
+1
+snapshot
+https://dom.spec.whatwg.org/#dom-xpathevaluatorbase-createexpression-expression-resolver-expression
+1
+1
+XPathEvaluatorBase/createExpression(expression, resolver)
+XPathEvaluatorBase/createExpression(expression)
+-
+expression
+argument
+dom
+dom
+1
+snapshot
+https://dom.spec.whatwg.org/#dom-xpathevaluatorbase-evaluate-expression-contextnode-resolver-type-result-expression
+1
+1
+XPathEvaluatorBase/evaluate(expression, contextNode, resolver, type, result)
+XPathEvaluatorBase/evaluate(expression, contextNode, resolver, type)
+XPathEvaluatorBase/evaluate(expression, contextNode, resolver)
+XPathEvaluatorBase/evaluate(expression, contextNode)
+-
 expressly inert
 dfn
 html

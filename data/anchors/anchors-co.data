@@ -1407,6 +1407,17 @@ CustomEvent
 -
 Constructor
 constructor
+dom
+dom
+1
+snapshot
+https://dom.spec.whatwg.org/#dom-xpathevaluator-xpathevaluator
+1
+1
+XPathEvaluator
+-
+Constructor
+constructor
 fileapi-1
 fileapi
 1
@@ -9750,6 +9761,33 @@ current
 https://mimesniff.spec.whatwg.org/#context-specific-sniffing-algorithm
 
 1
+-
+contextNode
+argument
+dom
+dom
+1
+snapshot
+https://dom.spec.whatwg.org/#dom-xpathexpression-evaluate-contextnode-type-result-contextnode
+1
+1
+XPathExpression/evaluate(contextNode, type, result)
+XPathExpression/evaluate(contextNode, type)
+XPathExpression/evaluate(contextNode)
+-
+contextNode
+argument
+dom
+dom
+1
+snapshot
+https://dom.spec.whatwg.org/#dom-xpathevaluatorbase-evaluate-expression-contextnode-resolver-type-result-contextnode
+1
+1
+XPathEvaluatorBase/evaluate(expression, contextNode, resolver, type, result)
+XPathEvaluatorBase/evaluate(expression, contextNode, resolver, type)
+XPathEvaluatorBase/evaluate(expression, contextNode, resolver)
+XPathEvaluatorBase/evaluate(expression, contextNode)
 -
 contextUrl
 dict-member
