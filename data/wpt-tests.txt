@@ -1,4 +1,4 @@
-sha: c5ae87660b5acf9a12cbacfbe8ecd6182f3e432c
+sha: fb9b5a1d816ab6e90f20534d6f3282f82075e460
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
@@ -12003,6 +12003,7 @@ reftest css/css-grid/abspos/positioned-grid-items-015.html
 reftest css/css-grid/abspos/positioned-grid-items-016.html
 reftest css/css-grid/abspos/positioned-grid-items-017.html
 reftest css/css-grid/abspos/positioned-grid-items-sizing-001.html
+reftest css/css-grid/alignment/grid-block-axis-alignment-auto-margins-008.html
 reftest css/css-grid/alignment/grid-content-distribution-001.html
 reftest css/css-grid/alignment/grid-content-distribution-002.html
 reftest css/css-grid/alignment/grid-content-distribution-003.html
@@ -12065,6 +12066,7 @@ reftest css/css-grid/alignment/grid-gutters-010.html
 reftest css/css-grid/alignment/grid-gutters-011.html
 reftest css/css-grid/alignment/grid-gutters-012.html
 reftest css/css-grid/alignment/grid-gutters-013.html
+reftest css/css-grid/alignment/grid-inline-axis-alignment-auto-margins-008.html
 reftest css/css-grid/alignment/grid-self-alignment-stretch-input-range.html
 reftest css/css-grid/alignment/self-baseline/grid-self-baseline-changes-grid-area-size-001.html
 reftest css/css-grid/alignment/self-baseline/grid-self-baseline-changes-grid-area-size-002.html
@@ -22057,6 +22059,13 @@ testharness css/css-grid/alignment/grid-alignment-style-changes-005.html
 testharness css/css-grid/alignment/grid-alignment-style-changes-006.html
 testharness css/css-grid/alignment/grid-alignment-style-changes-007.html
 testharness css/css-grid/alignment/grid-alignment-style-changes-008.html
+testharness css/css-grid/alignment/grid-block-axis-alignment-auto-margins-001.html
+testharness css/css-grid/alignment/grid-block-axis-alignment-auto-margins-002.html
+testharness css/css-grid/alignment/grid-block-axis-alignment-auto-margins-003.html
+testharness css/css-grid/alignment/grid-block-axis-alignment-auto-margins-004.html
+testharness css/css-grid/alignment/grid-block-axis-alignment-auto-margins-005.html
+testharness css/css-grid/alignment/grid-block-axis-alignment-auto-margins-006.html
+testharness css/css-grid/alignment/grid-block-axis-alignment-auto-margins-007.html
 testharness css/css-grid/alignment/grid-column-axis-alignment-positioned-items-001.html
 testharness css/css-grid/alignment/grid-column-axis-alignment-positioned-items-002.html
 testharness css/css-grid/alignment/grid-column-axis-alignment-positioned-items-003.html
@@ -22084,6 +22093,13 @@ testharness css/css-grid/alignment/grid-container-baseline-001.html
 testharness css/css-grid/alignment/grid-content-alignment-second-pass-001.html
 testharness css/css-grid/alignment/grid-content-alignment-second-pass-002.html
 testharness css/css-grid/alignment/grid-fit-content-tracks-dont-stretch-001.html
+testharness css/css-grid/alignment/grid-inline-axis-alignment-auto-margins-001.html
+testharness css/css-grid/alignment/grid-inline-axis-alignment-auto-margins-002.html
+testharness css/css-grid/alignment/grid-inline-axis-alignment-auto-margins-003.html
+testharness css/css-grid/alignment/grid-inline-axis-alignment-auto-margins-004.html
+testharness css/css-grid/alignment/grid-inline-axis-alignment-auto-margins-005.html
+testharness css/css-grid/alignment/grid-inline-axis-alignment-auto-margins-006.html
+testharness css/css-grid/alignment/grid-inline-axis-alignment-auto-margins-007.html
 testharness css/css-grid/alignment/grid-row-axis-alignment-positioned-items-001.html
 testharness css/css-grid/alignment/grid-row-axis-alignment-positioned-items-002.html
 testharness css/css-grid/alignment/grid-row-axis-alignment-positioned-items-003.html
