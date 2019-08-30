@@ -1,4 +1,4 @@
-sha: 29beb469ba8e5e611225061d3bc5d1c9d94082d7
+sha: fb898b46adaf656c9807ed0b8adb39d84162cb98
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
