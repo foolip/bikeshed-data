@@ -24502,6 +24502,18 @@ https://wg21.link/lwg3266
 
 Jens Maurer
 -
+d:lwg3267
+LWG3267
+
+New
+Rebound allocators and is_always_equal
+https://wg21.link/lwg3267
+
+
+
+
+FrankHB1989
+-
 d:lwg327
 LWG327
 
