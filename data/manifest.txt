@@ -1,7 +1,7 @@
-2019-08-31 17:39:05.605241
-e8f9a2eaae217f35d934f421157bcdc7 fors.json
+2019-08-31 20:40:05.683728
+e837429d378934e9bddf0fc04e47dc24 fors.json
 9e4195faa2d230342621b63dc37b6dd9 specs.json
-a9aa46c844a87bfa3027a157fd8829f4 methods.json
+5748d9ddf998c5fff2d3a9fecba35e20 methods.json
 a4f2fa921b4bcebcbdf98547755233fe wpt-tests.txt
 7dffb9798f9b23ba9c6b5826e12076b2 languages.json
 e7d53991fca1de5fd47c7bd582f3a118 biblio-keys.json
@@ -34,7 +34,7 @@ ac03229c89a892eac6e1ff30e85df32f anchors/anchors-ag.data
 3132c6ddcafe1bb28d2708c0197db5f3 anchors/anchors-ak.data
 1e1b2b15098252da32d16158fd2045c0 anchors/anchors-al.data
 11116880286e76c4193fe2f97d28d80f anchors/anchors-am.data
-e08e222e085f2214d01001eb6c355a89 anchors/anchors-an.data
+a0015e9661bb19a56757607bf830b3ca anchors/anchors-an.data
 1e05fc4f404458cdd9676153ea3bafd3 anchors/anchors-ap.data
 4868e151177a340bcfd28efa73f10581 anchors/anchors-aq.data
 7ed09ca97e1fa8adaba989137b704ceb anchors/anchors-ar.data
@@ -91,7 +91,7 @@ e506952f6d3dcc0a7b3c0b2c5a439add anchors/anchors-de.data
 6d58f913122aa1abea3b9b83374c5074 anchors/anchors-di.data
 b09fd9b1c6403a0cd2d6819a65253ecc anchors/anchors-dl.data
 358a3ec78da715ccc431e2e1ab208527 anchors/anchors-dn.data
-60b45cb99266568e511267c982d3a787 anchors/anchors-do.data
+2a89fbc53b3ba39387ad3388c1b47a6f anchors/anchors-do.data
 553fc94a06760953313a82bf57b2ad1c anchors/anchors-dp.data
 aa7abc461274fa78d66e0c7b078e6370 anchors/anchors-dr.data
 1d76c4f02dfd48277aa0fe4bdf7a1552 anchors/anchors-dt.data
@@ -187,7 +187,7 @@ a136aa259cf426d43b27dd97b6b96c49 anchors/anchors-k1.data
 f3d8d3df180c8d432a05a8363512817f anchors/anchors-k_.data
 f4e17996c24bc0c4c4e558e79da77897 anchors/anchors-ka.data
 0f767e9a899756a07365cf6a3549498a anchors/anchors-kb.data
-32a1e0358b3bb2b28ad70dfc2067818f anchors/anchors-ke.data
+adec38818ea534d435b664e1a4961437 anchors/anchors-ke.data
 4c7af4a400da5fa75fd5a03b291d50be anchors/anchors-kh.data
 dc7bfb6a3337a7051a405e722200ccf4 anchors/anchors-ki.data
 d26e33e559eb3c687897683d5a6deb3e anchors/anchors-kn.data

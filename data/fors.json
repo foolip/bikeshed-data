@@ -10366,6 +10366,7 @@
     "options"
   ], 
   "Animation": [
+    "Animation (effect, timeline)", 
     "Animation(effect, timeline)", 
     "cancel()", 
     "commitStyles()", 
@@ -13578,6 +13579,7 @@
     "styleSheets"
   ], 
   "DocumentTimeline": [
+    "DocumentTimeline (options)", 
     "DocumentTimeline(options)"
   ], 
   "DocumentTimeline/DocumentTimeline(options)": [
@@ -16017,6 +16019,8 @@
     "id"
   ], 
   "KeyframeEffect": [
+    "KeyframeEffect (source)", 
+    "KeyframeEffect (target, keyframes, options)", 
     "KeyframeEffect(source)", 
     "KeyframeEffect(target, keyframes, options)", 
     "composite", 
