@@ -5491,16 +5491,6 @@ https://html.spec.whatwg.org/multipage/links.html#reinitialise-url
 -
 reject
 dfn
-promises-guide-1
-promises-guide
-1
-snapshot
-https://www.w3.org/2001/tag/doc/promises-guide/#reject-promise
-
-1
--
-reject
-dfn
 webidl
 webidl
 1
@@ -10349,16 +10339,6 @@ blob URL
 -
 resolve
 dfn
-promises-guide-1
-promises-guide
-1
-snapshot
-https://www.w3.org/2001/tag/doc/promises-guide/#resolve-promise
-
-1
--
-resolve
-dfn
 webidl
 webidl
 1
@@ -10464,16 +10444,6 @@ css-tables
 3
 current
 https://drafts.csswg.org/css-tables-3/#resolving-percentages-heights-in-table-cell-content
-
-1
--
-resolved as a promise
-dfn
-promises-guide-1
-promises-guide
-1
-snapshot
-https://www.w3.org/2001/tag/doc/promises-guide/#resolved-as-a-promise
 
 1
 -

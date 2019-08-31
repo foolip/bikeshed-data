@@ -3536,7 +3536,7 @@ html
 html
 1
 snapshot
-https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#attr-fe-autofocus
+https://html.spec.whatwg.org/multipage/interaction.html#attr-fe-autofocus
 1
 1
 -
@@ -3546,10 +3546,10 @@ html
 html
 1
 snapshot
-https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#dom-fe-autofocus
+https://html.spec.whatwg.org/multipage/interaction.html#dom-fe-autofocus
 1
 1
-HTMLTextAreaElement
+HTMLOrSVGElement
 -
 automated install prompt
 dfn

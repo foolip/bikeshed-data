@@ -7187,7 +7187,6 @@
     "proleptic-gregorian date", 
     "prolog", 
     "promise type", 
-    "promise-calling", 
     "prompt the user to choose", 
     "prompt to unload", 
     "prompting the user to choose", 
@@ -7564,7 +7563,6 @@
     "resolve job promise", 
     "resolve pending play promises", 
     "resolve percentage heights in table-cell content:", 
-    "resolved as a promise", 
     "resolved descendant node", 
     "resolved type", 
     "resolved value", 
@@ -8971,7 +8969,6 @@
     "transformed element", 
     "transformed progress", 
     "transformer", 
-    "transforming", 
     "transforms", 
     "transient registered observer", 
     "transition", 
@@ -15207,6 +15204,7 @@
   ], 
   "HTMLOrSVGElement": [
     "[[CryptographicNonce]]", 
+    "autofocus", 
     "dataset", 
     "focus()", 
     "nonce", 
@@ -15362,7 +15360,6 @@
   ], 
   "HTMLTextAreaElement": [
     "autocomplete", 
-    "autofocus", 
     "cols", 
     "defaultValue", 
     "dirName", 
@@ -21712,6 +21709,7 @@
     "main fetch"
   ], 
   "map": [
+    "clone", 
     "contain", 
     "entry", 
     "exist", 

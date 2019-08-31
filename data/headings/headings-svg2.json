@@ -3057,7 +3057,7 @@
   }, 
   "/interact#AnimationEvents": {
     "current": {
-      "number": "15.9.1", 
+      "number": "15.8.1", 
       "spec": "SVG 2", 
       "text": "Animation event attributes", 
       "url": "https://svgwg.org/svg2-draft/interact.html#AnimationEvents"
@@ -3071,7 +3071,7 @@
   }, 
   "/interact#DOMInterfaces": {
     "current": {
-      "number": "15.11", 
+      "number": "15.10", 
       "spec": "SVG 2", 
       "text": "DOM interfaces", 
       "url": "https://svgwg.org/svg2-draft/interact.html#DOMInterfaces"
@@ -3084,12 +3084,6 @@
     }
   }, 
   "/interact#EnableZoomAndPanControls": {
-    "current": {
-      "number": "15.7", 
-      "spec": "SVG 2", 
-      "text": "Magnification and panning", 
-      "url": "https://svgwg.org/svg2-draft/interact.html#EnableZoomAndPanControls"
-    }, 
     "snapshot": {
       "number": "15.7", 
       "spec": "SVG 2", 
@@ -3099,7 +3093,7 @@
   }, 
   "/interact#EventAttributes": {
     "current": {
-      "number": "15.9", 
+      "number": "15.8", 
       "spec": "SVG 2", 
       "text": "Event attributes", 
       "url": "https://svgwg.org/svg2-draft/interact.html#EventAttributes"
@@ -3113,7 +3107,7 @@
   }, 
   "/interact#Focus": {
     "current": {
-      "number": "15.8", 
+      "number": "15.7", 
       "spec": "SVG 2", 
       "text": "Focus", 
       "url": "https://svgwg.org/svg2-draft/interact.html#Focus"
@@ -3127,7 +3121,7 @@
   }, 
   "/interact#InterfaceSVGScriptElement": {
     "current": {
-      "number": "15.11.1", 
+      "number": "15.10.1", 
       "spec": "SVG 2", 
       "text": "Interface SVGScriptElement", 
       "url": "https://svgwg.org/svg2-draft/interact.html#InterfaceSVGScriptElement"
@@ -3211,7 +3205,7 @@
   }, 
   "/interact#ScriptElement": {
     "current": {
-      "number": "15.10", 
+      "number": "15.9", 
       "spec": "SVG 2", 
       "text": "The ‘script’ element", 
       "url": "https://svgwg.org/svg2-draft/interact.html#ScriptElement"
@@ -7487,7 +7481,7 @@
   }, 
   "/types#InterfaceSVGURIReference": {
     "current": {
-      "number": "4.7.5", 
+      "number": "4.7.4", 
       "spec": "SVG 2", 
       "text": "Mixin SVGURIReference", 
       "url": "https://svgwg.org/svg2-draft/types.html#InterfaceSVGURIReference"
@@ -7514,12 +7508,6 @@
     }
   }, 
   "/types#InterfaceSVGZoomAndPan": {
-    "current": {
-      "number": "4.7.4", 
-      "spec": "SVG 2", 
-      "text": "Mixin SVGZoomAndPan", 
-      "url": "https://svgwg.org/svg2-draft/types.html#InterfaceSVGZoomAndPan"
-    }, 
     "snapshot": {
       "number": "4.7.4", 
       "spec": "SVG 2", 
