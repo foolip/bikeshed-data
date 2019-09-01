@@ -20170,6 +20170,7 @@
     "paginate"
   ], 
   "core-attributes": [
+    "autofocus", 
     "class", 
     "id", 
     "lang", 

@@ -1112,6 +1112,9 @@
   "#animated-mode": [
     "/conform#animated-mode"
   ], 
+  "#autofocusattribute": [
+    "/struct#autofocusattribute"
+  ], 
   "#backward": [
     "/changes#backward"
   ], 
@@ -5461,7 +5464,7 @@
   }, 
   "/struct#DataAttributes": {
     "current": {
-      "number": "5.11.6", 
+      "number": "5.11.7", 
       "spec": "SVG 2", 
       "text": "The ‘data-*’ attributes", 
       "url": "https://svgwg.org/svg2-draft/struct.html#DataAttributes"
@@ -6111,6 +6114,14 @@
       "spec": "SVG 2", 
       "text": "The ‘xml:space’ attribute", 
       "url": "https://www.w3.org/TR/svg2/struct.html#WhitespaceProcessingXMLSpaceAttribute"
+    }
+  }, 
+  "/struct#autofocusattribute": {
+    "current": {
+      "number": "5.11.6", 
+      "spec": "SVG 2", 
+      "text": "The ‘autofocus’ attribute", 
+      "url": "https://svgwg.org/svg2-draft/struct.html#autofocusattribute"
     }
   }, 
   "/struct#implicit-aria-semantics": {

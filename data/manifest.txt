@@ -1,5 +1,5 @@
-2019-08-31 22:39:10.598110
-e837429d378934e9bddf0fc04e47dc24 fors.json
+2019-09-01 00:39:15.109425
+a1353eed8e93e9ff9edf8057d122d569 fors.json
 9e4195faa2d230342621b63dc37b6dd9 specs.json
 5748d9ddf998c5fff2d3a9fecba35e20 methods.json
 a4f2fa921b4bcebcbdf98547755233fe wpt-tests.txt
@@ -40,7 +40,7 @@ a0015e9661bb19a56757607bf830b3ca anchors/anchors-an.data
 7ed09ca97e1fa8adaba989137b704ceb anchors/anchors-ar.data
 b3a4dafec15b6643fa835c17d26d1ea3 anchors/anchors-as.data
 f80a8b4c0571851f8d3531bebf07654d anchors/anchors-at.data
-4e33ca7770389d7c6b60c1f6876055c0 anchors/anchors-au.data
+86d96cb52b75f2f3d70afa2d0f0077a9 anchors/anchors-au.data
 9fe59b3e2b4d221c9d72f379f4677e69 anchors/anchors-av.data
 57ec90ba2489af760c776975e415645b anchors/anchors-aw.data
 5e299a9afd13874cbe8f410eafc7cf6d anchors/anchors-ax.data
@@ -1350,7 +1350,7 @@ ed0cdf5ffead2db819d4584dc6388c97 headings/headings-selectors-nonelement-1.json
 107baf09015384789891b1b49fba2e46 headings/headings-storage.json
 574b30aebdafeeabdf286291d9320ee8 headings/headings-streams.json
 d407a14bc5878fdb23c3a78015a97f1a headings/headings-svg.json
-4bc1c7a39325d0c9d6407eac1ab8d219 headings/headings-svg2.json
+a584c4bc63dda3a3edd159ab514991f0 headings/headings-svg2.json
 bc924e78eef54397c4a5e098dfda0069 headings/headings-ui-events-1.json
 e99e0048d61ca6f230628e01a8087fbc headings/headings-upgrade-insecure-requests-1.json
 4908cb3b554c994b0e7bb710295062f7 headings/headings-url.json

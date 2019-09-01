@@ -3551,6 +3551,17 @@ https://html.spec.whatwg.org/multipage/interaction.html#dom-fe-autofocus
 1
 HTMLOrSVGElement
 -
+autofocus
+element-attr
+svg2
+svg
+2
+current
+https://svgwg.org/svg2-draft/struct.html#SVGElementAutofocusAttribute
+1
+1
+core-attributes
+-
 automated install prompt
 dfn
 appmanifest
