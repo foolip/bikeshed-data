@@ -24526,6 +24526,18 @@ https://wg21.link/lwg3268
 
 Eric Fiselier
 -
+d:lwg3269
+LWG3269
+
+New
+Parse manipulators do not specify the result of the extraction from stream
+https://wg21.link/lwg3269
+
+
+
+
+Tomasz Kamiński
+-
 d:lwg327
 LWG327
 
