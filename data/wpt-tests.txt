@@ -1,4 +1,4 @@
-sha: 9064a51d4e4c177bf4b629031c3ac8010c910132
+sha: 580bc2dba627bfe2e9b81c254d32b76e90a9c24f
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
@@ -21503,6 +21503,7 @@ testharness css/css-animations/event-order.tentative.html
 testharness css/css-animations/historical.html
 testharness css/css-animations/idlharness.html
 testharness css/css-animations/inheritance.html
+testharness css/css-animations/keyframes-remove-documentElement-crash.html
 testharness css/css-animations/parsing/animation-delay-computed.html
 testharness css/css-animations/parsing/animation-delay-invalid.html
 testharness css/css-animations/parsing/animation-delay-valid.html
