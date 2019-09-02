@@ -1,4 +1,4 @@
-2019-09-02 14:39:05.545825
+2019-09-02 19:39:02.800581
 a1353eed8e93e9ff9edf8057d122d569 fors.json
 9e4195faa2d230342621b63dc37b6dd9 specs.json
 5748d9ddf998c5fff2d3a9fecba35e20 methods.json
@@ -449,7 +449,7 @@ fbdc5d3d10809ed4557279035de62915 biblio/biblio-e..data
 fc4de15861570e5033eae06d7078b497 biblio/biblio-ea.data
 76c2529ba8d9161c4a8a046b79a4e65a biblio/biblio-eb.data
 37c2dc85070242e99c361e150364afe6 biblio/biblio-ec.data
-f58eff6ec83275c98d57d11a4a0eee82 biblio/biblio-ed.data
+519837f7819a8b12ad1fd78d3a5e82b2 biblio/biblio-ed.data
 40b225f7dc617a8759fd8952936fbe7c biblio/biblio-eg.data
 37158e73bad291b5ab6fdcd24ebfebe9 biblio/biblio-el.data
 8c7e2f3d2f822739de18d1fdf94570f1 biblio/biblio-em.data
@@ -664,7 +664,7 @@ b2e184618331c2401944ccb717a14570 biblio/biblio-wc.data
 85b2eea25ee4fb2b66d78d2c0ae5b012 biblio/biblio-wd.data
 90d6e521215b3f1a43c3951c45cc3016 biblio/biblio-we.data
 1a5f7db0d1070f153c617556831961fd biblio/biblio-wf.data
-c21e842f68cb8086782374c2c3373061 biblio/biblio-wg.data
+60393496b026841d24ad20b77dc37920 biblio/biblio-wg.data
 72e42c8ea75a92eda6e042bdb9d91b7c biblio/biblio-wh.data
 0f7389b24a087a950aa58d11746418c3 biblio/biblio-wi.data
 f4ac702eb7d0f934e6fd0db4d5a8d814 biblio/biblio-wm.data

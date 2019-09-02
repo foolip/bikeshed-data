@@ -26981,6 +26981,17 @@ https://wg21.link/edit3208
 
 
 -
+d:edit3209
+EDIT3209
+
+open
+[iterators] s/a == b/bool(a == b)/ and s/++a == ++b/bool(++a == ++b)/
+https://wg21.link/edit3209
+
+
+
+
+-
 d:edit321
 EDIT321
 
