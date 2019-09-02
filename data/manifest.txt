@@ -1,4 +1,4 @@
-2019-09-02 12:39:32.310212
+2019-09-02 13:39:24.310844
 a1353eed8e93e9ff9edf8057d122d569 fors.json
 9e4195faa2d230342621b63dc37b6dd9 specs.json
 5748d9ddf998c5fff2d3a9fecba35e20 methods.json
@@ -527,7 +527,7 @@ dfe9a1a6ce0d7a302b9b53c9d314bcc2 biblio/biblio-le.data
 b2ca691fe943628bf9807267793e2ef0 biblio/biblio-ll.data
 2497dae1bc8d3a3aef7f4382d4937413 biblio/biblio-lo.data
 58c7d10fe0a6ed7aae2194c67d9998dd biblio/biblio-lt.data
-1329636ccabb2c679599a734dc627f17 biblio/biblio-lw.data
+b4a47d5394ce2c090813bf8cf83fbdb1 biblio/biblio-lw.data
 bc641ddf408fa6e56368ca8d2249ef55 biblio/biblio-ma.data
 a580d95065094fb5c24f582c6d7b7d3f biblio/biblio-mb.data
 5a727dc5e33cfa31aa6e8a4e4cfc9c4f biblio/biblio-mc.data
