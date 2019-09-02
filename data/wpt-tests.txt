@@ -1,4 +1,4 @@
-sha: d865af1b41bd7fda439930fc19a0389128538edb
+sha: ae967821569a513a3136705a9f322a9b22b2e641
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
@@ -13287,6 +13287,7 @@ reftest css/css-ruby/block-ruby-004.html
 reftest css/css-ruby/block-ruby-005.html
 reftest css/css-ruby/root-block-ruby.xhtml
 reftest css/css-ruby/root-ruby.xhtml
+reftest css/css-ruby/ruby-base-different-size.html
 reftest css/css-ruby/ruby-layout-internal-boxes.html
 reftest css/css-scoping/css-scoping-shadow-assigned-node-with-before-after.html
 reftest css/css-scoping/css-scoping-shadow-assigned-node-with-rules.html
