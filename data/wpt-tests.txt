@@ -1,4 +1,4 @@
-sha: 5645f4c61207dd29ffc1e5960caf7f4b204089d4
+sha: 1ac959f3e6198767fecf67740d3e1687b184265f
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
@@ -27877,6 +27877,7 @@ testharness infrastructure/assumptions/non-secure-context.any.js
 testharness infrastructure/browsers/firefox/prefs.html
 testharness infrastructure/expected-fail/failing-test.html
 testharness infrastructure/expected-fail/timeout.html
+testharness infrastructure/expected-fail/uncaught-exception.html
 testharness infrastructure/server/context.any.js
 testharness infrastructure/server/order-of-metas.any.js
 testharness infrastructure/server/order-of-metas.window.js
