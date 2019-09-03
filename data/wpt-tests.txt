@@ -1,4 +1,4 @@
-sha: ae967821569a513a3136705a9f322a9b22b2e641
+sha: cfb69fe84608b80823905e9f257e2ef7700362bc
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
@@ -26844,6 +26844,7 @@ testharness html/semantics/forms/autofocus/first-when-later.html
 testharness html/semantics/forms/autofocus/first.html
 testharness html/semantics/forms/autofocus/no-cross-origin-autofocus.html
 testharness html/semantics/forms/autofocus/not-on-first-task.html
+testharness html/semantics/forms/autofocus/supported-elements.html
 testharness html/semantics/forms/constraints/form-validation-checkValidity.html
 testharness html/semantics/forms/constraints/form-validation-reportValidity.html
 testharness html/semantics/forms/constraints/form-validation-validate.html
@@ -33326,6 +33327,7 @@ testharness svg/shapes/line-pathLength.svg
 testharness svg/shapes/rx-ry-not-inherited.svg
 testharness svg/shapes/scripted/disabled-shapes-not-hit.svg
 testharness svg/struct/UnknownElement/interface.svg
+testharness svg/struct/scripted/autofocus-attribute.svg
 testharness svg/styling/required-properties.svg
 testharness svg/svg-in-svg/svg-in-svg-circular-filter-reference-crash.html
 testharness svg/text/inheritance.svg
