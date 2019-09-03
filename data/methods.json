@@ -1365,6 +1365,24 @@
       "shortname": "fetch"
     }
   }, 
+  "ScreenOrientation.lock()": {
+    "ScreenOrientation.lock()": {
+      "args": [], 
+      "for": [
+        "ScreenOrientation"
+      ], 
+      "shortname": "screen-orientation"
+    }
+  }, 
+  "ScreenOrientation.unlock()": {
+    "ScreenOrientation.unlock()": {
+      "args": [], 
+      "for": [
+        "ScreenOrientation"
+      ], 
+      "shortname": "screen-orientation"
+    }
+  }, 
   "SecurityPolicyViolationEvent()": {
     "SecurityPolicyViolationEvent(type)": {
       "args": [
@@ -6659,7 +6677,7 @@
     "lock()": {
       "args": [], 
       "for": [
-        "screenorientation"
+        "ScreenOrientation"
       ], 
       "shortname": "screen-orientation"
     }
@@ -9235,24 +9253,6 @@
       "shortname": "geometry"
     }
   }, 
-  "screenorientation.lock()": {
-    "screenorientation.lock()": {
-      "args": [], 
-      "for": [
-        "screenorientation"
-      ], 
-      "shortname": "screen-orientation"
-    }
-  }, 
-  "screenorientation.unlock()": {
-    "screenorientation.unlock()": {
-      "args": [], 
-      "for": [
-        "screenorientation"
-      ], 
-      "shortname": "screen-orientation"
-    }
-  }, 
   "scroll()": {
     "scroll()": {
       "args": [], 
@@ -10931,7 +10931,7 @@
     "unlock()": {
       "args": [], 
       "for": [
-        "screenorientation"
+        "ScreenOrientation"
       ], 
       "shortname": "screen-orientation"
     }

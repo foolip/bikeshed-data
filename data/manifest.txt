@@ -1,8 +1,8 @@
-2019-09-03 07:41:05.402706
-56f4f73537d43755d415d5cbfa1ebfd1 fors.json
+2019-09-03 08:40:21.984054
+b07fdb60bda923a49da318809fdc08e2 fors.json
 9e4195faa2d230342621b63dc37b6dd9 specs.json
-d66a7d67da0fcec4e7fba6d93cb57ad4 methods.json
-a77ff0ffe113e69821d23672c9e7c188 wpt-tests.txt
+5e193719fcdbfb86c011565fc4fdbd4f methods.json
+325aa7d3bb65e4afc928e3d20eb69a62 wpt-tests.txt
 7dffb9798f9b23ba9c6b5826e12076b2 languages.json
 e7d53991fca1de5fd47c7bd582f3a118 biblio-keys.json
 a6b0af828db95757ac1bcc25e3c18fcd test-suites.json
@@ -34,7 +34,7 @@ ac03229c89a892eac6e1ff30e85df32f anchors/anchors-ag.data
 3132c6ddcafe1bb28d2708c0197db5f3 anchors/anchors-ak.data
 1e1b2b15098252da32d16158fd2045c0 anchors/anchors-al.data
 11116880286e76c4193fe2f97d28d80f anchors/anchors-am.data
-a0015e9661bb19a56757607bf830b3ca anchors/anchors-an.data
+5cd5fdf128a4a9f925c2bfbfd0094361 anchors/anchors-an.data
 07f6658fd1db1710f2f573d010e714d8 anchors/anchors-ap.data
 4868e151177a340bcfd28efa73f10581 anchors/anchors-aq.data
 7ed09ca97e1fa8adaba989137b704ceb anchors/anchors-ar.data
@@ -192,12 +192,12 @@ adec38818ea534d435b664e1a4961437 anchors/anchors-ke.data
 dc7bfb6a3337a7051a405e722200ccf4 anchors/anchors-ki.data
 d26e33e559eb3c687897683d5a6deb3e anchors/anchors-kn.data
 c85a67e4108aac545378e2ceaa25a8ef anchors/anchors-ko.data
-4f7bb6d4e13a1443aa5e7ce71ae93632 anchors/anchors-la.data
+6d7adf20372b77b40cd6cbb46cb83cfe anchors/anchors-la.data
 d6310b10da54f1559e4159f95f5e3ae5 anchors/anchors-lc.data
 ce08d0c5c67c400681703ee0144e3d59 anchors/anchors-le.data
 64bb12ccda148ef88e0e8266be960372 anchors/anchors-lh.data
 d9d243270f0bc4a82a65496d452e9517 anchors/anchors-li.data
-960f9251140abfe16e4e65bdce84473e anchors/anchors-lo.data
+1033dc2a17e603440c36e94994c5f88b anchors/anchors-lo.data
 8f96bde4937a6dec7e363864cfc2cf74 anchors/anchors-ls.data
 02436ee19b49b7c7be3239ffdf38df28 anchors/anchors-lt.data
 e9d3dd0f88485cd2c2c2077f0b3e912e anchors/anchors-lu.data
@@ -216,7 +216,7 @@ a4e7da7dfa392f969d0d4c162f068757 anchors/anchors-ms.data
 195b11a54efd22b093f97e332430ffb4 anchors/anchors-mu.data
 b5e55ab0f3758beaf787b5b42534616b anchors/anchors-my.data
 3422b1c06a981d76b9b5f1abacce415c anchors/anchors-n_.data
-ba558cff77265972905e1513842e3607 anchors/anchors-na.data
+3123b067933f100458433926aea838f3 anchors/anchors-na.data
 ae9e1ba784bced1e7881d5108fb8e322 anchors/anchors-nd.data
 ba8a57add509b4f4ba3c36009c251556 anchors/anchors-ne.data
 7cecb7c236c34bcabb143b76db642cf3 anchors/anchors-nf.data
@@ -233,9 +233,9 @@ e483f5fb24730d6fa935792a79599506 anchors/anchors-ob.data
 cb332151238f2c068e8ac95de65c0ae5 anchors/anchors-ok.data
 b4f2ee82c3fb2e4c8094ca55a4d6dad6 anchors/anchors-ol.data
 35fd06395ee4bfa6b783ef24f3e86ba2 anchors/anchors-om.data
-9e10ead17be9ec7d20452dd92c7388b7 anchors/anchors-on.data
+e2c4c4f06946b1f86e2c4d76a3e89e42 anchors/anchors-on.data
 8d21f6b718c4789db2c94ffce2f78075 anchors/anchors-op.data
-f191b50667fff4129c9c5f6a3d228429 anchors/anchors-or.data
+9b925921f33df38a9284946ee5365782 anchors/anchors-or.data
 3e6c1eaa4d6b0aa3ff8596cb588dcbb1 anchors/anchors-os.data
 8f063da8529bd545fa97fc32f64b9ac3 anchors/anchors-ot.data
 023f3d4fd7eac8b82d8d10718cf62644 anchors/anchors-ou.data
@@ -253,7 +253,7 @@ cf473e2b736e33f4dcecbef8173c5334 anchors/anchors-pb.data
 f3e279963df66516663b2e592f477f32 anchors/anchors-ph.data
 6b3a2407d66b9ea4e8abef1e12113f71 anchors/anchors-pi.data
 aad0ba8ce133611308f227e5c6f9a9e9 anchors/anchors-pl.data
-342e6e02bf520ebca3a1f89ecff4decf anchors/anchors-po.data
+3e46f17567c85049fefd8371c0598c29 anchors/anchors-po.data
 afdceb030da55a5b090e04e84ae10a3c anchors/anchors-pr.data
 42e1426ed666f8f680e32dc39687693c anchors/anchors-ps.data
 da18750daea853a640277e078eb7f101 anchors/anchors-pt.data
@@ -284,7 +284,7 @@ bb904676445797f15b4122fef750be06 anchors/anchors-rt.data
 e27d297b89b28bccd2a141e00b8f035d anchors/anchors-ry.data
 ed36d3cf09c891d42dd28263412526df anchors/anchors-s_.data
 f7b21eefe7d6b6a7f839ea577b3095c1 anchors/anchors-sa.data
-b7b888f762df20dc7fc3608848eb3384 anchors/anchors-sc.data
+4e391afb01ca7bad6ae5af898afce75e anchors/anchors-sc.data
 a0e330d30bbeccba9850f837c16f3ec9 anchors/anchors-se.data
 13f2ab35f1ef4a66b956e6a9b0a82f57 anchors/anchors-sh.data
 6ad6143b4590615c989784a9d2a43170 anchors/anchors-si.data
@@ -319,7 +319,7 @@ c3ebf21f1e3276814098da60f27bd8ed anchors/anchors-tt.data
 25c9e475131d9776377ab90cc9025bc3 anchors/anchors-tu.data
 310b2bbe6a4854eef1d4785945f77a39 anchors/anchors-tv.data
 bb3602815dfae87a6a7f951b117fa937 anchors/anchors-tx.data
-a25efeb56bdd82a621874fac448cac84 anchors/anchors-ty.data
+78cc876f3d69295215b31348e7ffd041 anchors/anchors-ty.data
 6ea31355fa582533b185d153afab1429 anchors/anchors-tz.data
 3c8ea1e497252a621fc9b51d198f48d3 anchors/anchors-u1.data
 5792cca2ac71e34b7d2c9fd0d5e868ba anchors/anchors-u2.data
@@ -327,7 +327,7 @@ f2d97570b95a0635e7b6f1b6b92d6b8e anchors/anchors-u_.data
 64716e0c766fb79d6ebced0e52a92df8 anchors/anchors-ua.data
 43954499f33aba5e46ba21a21d036156 anchors/anchors-ui.data
 d34fa264c236d16df9955416cff686bd anchors/anchors-ul.data
-52405dcdfbfc676aae245ababbff04b6 anchors/anchors-un.data
+c090299a6070b2094e7690f82bd74f60 anchors/anchors-un.data
 fe881b2fac74090063e5c2795a381a0e anchors/anchors-up.data
 680dbc1ad27e4c91f9213eeb8933a28a anchors/anchors-ur.data
 26197d9d9b30a5f28b064e420333531f anchors/anchors-us.data
@@ -604,7 +604,7 @@ c24ce96aab3c7729d5033a3ed1bd99a7 biblio/biblio-rt.data
 bf1a912a2db6e7b13d868cc592daf7e4 biblio/biblio-ru.data
 8699b27ea7e2abbfff03a7d61e312c74 biblio/biblio-s6.data
 69896a5dad2a2908053695b52c0b9c60 biblio/biblio-sa.data
-25f5ad29e9887e0b57712472eec5dcae biblio/biblio-sc.data
+be619cd49f12b4f1634cda5708a06555 biblio/biblio-sc.data
 c230aa775ecaa2ccea3a7a964589b5cb biblio/biblio-sd.data
 573511db443863d55633db2e66a43483 biblio/biblio-se.data
 14edabd15d80eee81db1adf9f10cc2f2 biblio/biblio-sg.data

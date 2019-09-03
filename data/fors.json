@@ -1142,8 +1142,6 @@
     "OnErrorEventHandlerNonNull", 
     "OperationError", 
     "OptionalEffectTiming", 
-    "OrientationLockType", 
-    "OrientationType", 
     "OverrideBuiltins", 
     "PageTransitionEvent", 
     "PageTransitionEventInit", 
@@ -1465,7 +1463,6 @@
     "SVGZoomEvent", 
     "SameObject", 
     "Screen", 
-    "ScreenOrientation", 
     "ScrollBehavior", 
     "ScrollIntoViewOptions", 
     "ScrollLogicalPosition", 
@@ -6652,6 +6649,7 @@
     "organization-title", 
     "organization-unit", 
     "orientationlocktype", 
+    "orientationtype", 
     "origin", 
     "origin time", 
     "origin-clean", 
@@ -7814,6 +7812,7 @@
     "screen", 
     "screen concept", 
     "screen reader", 
+    "screenorientation", 
     "script", 
     "script data double escape end state", 
     "script data double escape start state", 
@@ -16747,12 +16746,24 @@
     "iterations"
   ], 
   "OrientationLockType": [
+    "any", 
+    "landscape", 
+    "landscape-primary", 
+    "landscape-secondary", 
+    "natural", 
     "orientation lock", 
+    "portrait", 
+    "portrait-primary", 
+    "portrait-secondary", 
     "pre-lock conditions"
   ], 
   "OrientationType": [
     "current orientation angle", 
     "current orientation type", 
+    "landscape-primary", 
+    "landscape-secondary", 
+    "portrait-primary", 
+    "portrait-secondary", 
     "screen orientation values table"
   ], 
   "PageTransitionEventInit": [
@@ -17657,12 +17668,30 @@
     "y"
   ], 
   "Screen": [
+    "Screen.orientation", 
     "availHeight", 
     "availWidth", 
     "colorDepth", 
     "height", 
+    "orientation", 
     "pixelDepth", 
     "width"
+  ], 
+  "ScreenOrientation": [
+    "ScreenOrientation.angle", 
+    "ScreenOrientation.lock", 
+    "ScreenOrientation.lock()", 
+    "ScreenOrientation.onchange", 
+    "ScreenOrientation.type", 
+    "ScreenOrientation.unlock", 
+    "ScreenOrientation.unlock()", 
+    "angle", 
+    "lock", 
+    "lock()", 
+    "onchange", 
+    "type", 
+    "unlock", 
+    "unlock()"
   ], 
   "ScrollBehavior": [
     "\"auto\"", 
@@ -22058,22 +22087,6 @@
     "landscape", 
     "portrait"
   ], 
-  "orientationlocktype": [
-    "any", 
-    "landscape", 
-    "landscape-primary", 
-    "landscape-secondary", 
-    "natural", 
-    "portrait", 
-    "portrait-primary", 
-    "portrait-secondary"
-  ], 
-  "orientationtype": [
-    "landscape-primary", 
-    "landscape-secondary", 
-    "portrait-primary", 
-    "portrait-secondary"
-  ], 
   "origin": [
     "domain", 
     "host", 
@@ -22542,26 +22555,6 @@
   ], 
   "scale": [
     "none"
-  ], 
-  "screen": [
-    "orientation", 
-    "screen.orientation"
-  ], 
-  "screenorientation": [
-    "angle", 
-    "lock", 
-    "lock()", 
-    "onchange", 
-    "screenorientation.angle", 
-    "screenorientation.lock", 
-    "screenorientation.lock()", 
-    "screenorientation.onchange", 
-    "screenorientation.type", 
-    "screenorientation.unlock", 
-    "screenorientation.unlock()", 
-    "type", 
-    "unlock", 
-    "unlock()"
   ], 
   "script": [
     "\"parser-inserted\"", 

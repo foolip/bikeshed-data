@@ -1237,7 +1237,7 @@ snapshot
 https://www.w3.org/TR/screen-orientation/#dom-screenorientation-angle
 1
 1
-screenorientation
+ScreenOrientation
 -
 animatable
 dfn
@@ -2555,7 +2555,7 @@ snapshot
 https://www.w3.org/TR/screen-orientation/#dom-orientationlocktype-any
 1
 1
-orientationlocktype
+OrientationLockType
 -
 any
 dfn

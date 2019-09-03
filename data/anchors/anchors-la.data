@@ -835,7 +835,7 @@ snapshot
 https://www.w3.org/TR/screen-orientation/#dom-orientationlocktype-landscape
 1
 1
-orientationlocktype
+OrientationLockType
 -
 landscape
 dfn
@@ -876,7 +876,7 @@ snapshot
 https://www.w3.org/TR/screen-orientation/#dom-orientationlocktype-landscape-primary
 1
 1
-orientationlocktype
+OrientationLockType
 -
 landscape-primary
 enum-value
@@ -887,7 +887,7 @@ snapshot
 https://www.w3.org/TR/screen-orientation/#dom-orientationtype-landscape-primary
 1
 1
-orientationtype
+OrientationType
 -
 landscape-primary
 dfn
@@ -908,7 +908,7 @@ snapshot
 https://www.w3.org/TR/screen-orientation/#dom-orientationlocktype-landscape-secondary
 1
 1
-orientationlocktype
+OrientationLockType
 -
 landscape-secondary
 enum-value
@@ -919,7 +919,7 @@ snapshot
 https://www.w3.org/TR/screen-orientation/#dom-orientationtype-landscape-secondary
 1
 1
-orientationtype
+OrientationType
 -
 landscape-secondary
 dfn
