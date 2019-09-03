@@ -26951,7 +26951,7 @@ https://wg21.link/edit3205
 d:edit3206
 EDIT3206
 
-open
+closed
 [range.range] replace hyphens with dashes
 https://wg21.link/edit3206
 
@@ -27006,7 +27006,7 @@ https://wg21.link/edit321
 d:edit3210
 EDIT3210
 
-open
+closed
 [span.tuple] simplify definition of get(span<T, I>)
 https://wg21.link/edit3210
 
@@ -27017,7 +27017,7 @@ https://wg21.link/edit3210
 d:edit3211
 EDIT3211
 
-open
+closed
 [span.syn] Fix inconsistent class key in tuple_size/tuple_element
 https://wg21.link/edit3211
 
