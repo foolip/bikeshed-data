@@ -1,4 +1,4 @@
-sha: bac3ea5db517f14f8a70ba0fc404ac831d6d40d2
+sha: adab23aed9f6f1d112a86a51d5aee6132fe813da
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
@@ -2425,7 +2425,6 @@ manual payment-request/updateWith-method-pmi-handling-manual.https.html
 manual payment-request/user-abort-algorithm-manual.https.html
 manual payment-request/user-accepts-payment-request-algo-manual.https.html
 manual pointerevents/compat/pointerevent_touch-action_two-finger_interaction-manual.html
-manual pointerevents/extension/pointerevent_coalesced_events_attributes-manual.html
 manual pointerevents/extension/pointerevent_getPredictedEvents_when_pointerlocked-manual.html
 manual pointerevents/extension/pointerevent_pointerrawupdate_in_pointerlock-manual.html
 manual pointerevents/extension/pointerevent_predicted_events_attributes-manual.html
@@ -30524,6 +30523,7 @@ testharness picture-in-picture/request-picture-in-picture-twice.html
 testharness picture-in-picture/request-picture-in-picture.html
 testharness picture-in-picture/shadow-dom.html
 testharness pointerevents/extension/idlharness.window.js
+testharness pointerevents/extension/pointerevent_coalesced_events_attributes.html
 testharness pointerevents/extension/pointerevent_constructor.html
 testharness pointerevents/extension/pointerevent_getCoalescedEvents_when_pointerlocked.html
 testharness pointerevents/extension/pointerevent_pointerrawupdate.html
