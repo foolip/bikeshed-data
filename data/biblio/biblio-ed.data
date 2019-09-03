@@ -27003,6 +27003,28 @@ https://wg21.link/edit321
 
 
 -
+d:edit3210
+EDIT3210
+
+open
+[span.tuple] simplify definition of get(span<T, I>)
+https://wg21.link/edit3210
+
+
+
+
+-
+d:edit3211
+EDIT3211
+
+open
+[span.syn] Fix inconsistent class key in tuple_size/tuple_element
+https://wg21.link/edit3211
+
+
+
+
+-
 d:edit322
 EDIT322
 
