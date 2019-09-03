@@ -517,7 +517,6 @@
     "AnimationTimeline", 
     "AnimationWorkletGlobalScope", 
     "AnimatorInstanceConstructor", 
-    "AppBannerPromptOutcome", 
     "ApplicationCache", 
     "ArrayBuffer", 
     "ArrayBufferView", 
@@ -542,7 +541,6 @@
     "BaseKeyframe", 
     "BasePropertyIndexedKeyframe", 
     "Baseline", 
-    "BeforeInstallPromptEvent", 
     "BeforeUnloadEvent", 
     "BinaryData", 
     "BinaryType", 
@@ -775,7 +773,6 @@
     "DeprecationReportBody", 
     "DequeueValue", 
     "DevicePermissionDescriptor", 
-    "DisplayModeType", 
     "Document", 
     "DocumentAndElementEventHandlers", 
     "DocumentFragment", 
@@ -820,7 +817,6 @@
     "ExtendableMessageEvent", 
     "ExtendableMessageEventInit", 
     "External", 
-    "ExternalApplicationResource", 
     "FakeWorkletGlobalScope", 
     "FeaturePolicy", 
     "FeaturePolicyViolationReportBody", 
@@ -835,7 +831,6 @@
     "FileReader", 
     "FileReaderSync", 
     "FillMode", 
-    "Fingerprint", 
     "Float32Array", 
     "Float64Array", 
     "FocusEvent", 
@@ -995,7 +990,6 @@
     "ImageData()", 
     "ImageEncodeOptions", 
     "ImageOrientation", 
-    "ImageResource", 
     "ImageSmoothingQuality", 
     "InUseAttributeError", 
     "IndexSizeError", 
@@ -1191,7 +1185,6 @@
     "PromiseCall", 
     "PromiseRejectionEvent", 
     "PromiseRejectionEventInit", 
-    "PromptResponseObject", 
     "PropertyDefinition", 
     "PropertyDescriptor", 
     "PublicKeyCredential", 
@@ -1495,7 +1488,6 @@
     "ServiceWorkerContainer", 
     "ServiceWorkerGlobalScope", 
     "ServiceWorkerRegistration", 
-    "ServiceWorkerRegistrationObject", 
     "ServiceWorkerState", 
     "ServiceWorkerUpdateViaCache", 
     "SetSyntheticModuleExport", 
@@ -1546,7 +1538,6 @@
     "TextDecoderCommon", 
     "TextDecoderOptions", 
     "TextDecoderStream", 
-    "TextDirectionType", 
     "TextEncoder", 
     "TextEncoderCommon", 
     "TextEncoderEncodeIntoResult", 
@@ -1645,7 +1636,6 @@
     "VideoTrack", 
     "VideoTrackList", 
     "VoidFunction", 
-    "WebAppManifest", 
     "WebKitCSSMatrix", 
     "WebSocket", 
     "WebSocket(url, protocols)", 
@@ -2055,6 +2045,7 @@
     "any link size", 
     "apc", 
     "api value", 
+    "appbannerpromptoutcome", 
     "appearance", 
     "appearance of a cross-fade()", 
     "append", 
@@ -2405,6 +2396,7 @@
     "before-active boundary time", 
     "before-change style", 
     "beforeinput", 
+    "beforeinstallpromptevent", 
     "begin", 
     "beginning edges", 
     "behave as auto", 
@@ -3793,6 +3785,7 @@
     "display size", 
     "display state", 
     "display type", 
+    "displaymodetype", 
     "distinguishable", 
     "distinguishing argument index", 
     "distribute extra space", 
@@ -4193,6 +4186,7 @@
     "external file reference", 
     "external resource", 
     "external resource link", 
+    "externalapplicationresource", 
     "extra permission data", 
     "extra permission data constraints", 
     "extra permission data type", 
@@ -4346,6 +4340,7 @@
     "finding focusable areas", 
     "finding slotables", 
     "finding the shortest distance", 
+    "fingerprint", 
     "fingerprinting surface", 
     "finish an animation", 
     "finish event", 
@@ -5072,6 +5067,7 @@
     "image/png", 
     "image/svg+xml", 
     "imagebitmaprenderingcontext creation algorithm", 
+    "imageresource", 
     "ime", 
     "img", 
     "img-src", 
@@ -7190,6 +7186,7 @@
     "prompt the user to choose", 
     "prompt to unload", 
     "prompting the user to choose", 
+    "promptresponseobject", 
     "propagate", 
     "propagation", 
     "propagation path", 
@@ -8062,6 +8059,7 @@
     "serviceworker", 
     "serviceworkercontainer", 
     "serviceworkerglobalscope", 
+    "serviceworkerregistrationobject", 
     "serviceworkerupdateviacache", 
     "session history", 
     "session history document visibility change steps", 
@@ -8220,7 +8218,6 @@
     "site-triggered install prompt", 
     "size", 
     "size containment", 
-    "sizes", 
     "sizes attribute", 
     "sizing property", 
     "sizing type", 
@@ -8789,6 +8786,7 @@
     "textarea effective width", 
     "textarea wrapping transformation", 
     "textcontent", 
+    "textdirectiontype", 
     "textpath", 
     "textphone", 
     "textual data types", 
@@ -9427,6 +9425,7 @@
     "web+ scheme prefix", 
     "web-exposed available screen area", 
     "web-exposed screen area", 
+    "webappmanifest", 
     "webauthn authenticator", 
     "webauthn client", 
     "webauthn client device", 
@@ -10465,6 +10464,10 @@
     "options", 
     "state"
   ], 
+  "AppBannerPromptOutcome": [
+    "accepted", 
+    "dismissed"
+  ], 
   "ApplicationCache": [
     "CHECKING", 
     "DOWNLOADING", 
@@ -10592,8 +10595,16 @@
     "value"
   ], 
   "BeforeInstallPromptEvent": [
+    "BeforeInstallPromptEvent.constructor", 
+    "BeforeInstallPromptEvent.constructor()", 
+    "BeforeInstallPromptEvent.prompt", 
+    "BeforeInstallPromptEvent.prompt()", 
     "[[didprompt]]", 
     "[[userresponsepromise]]", 
+    "constructor", 
+    "constructor()", 
+    "prompt", 
+    "prompt()", 
     "request to present an install prompt"
   ], 
   "BeforeUnloadEvent": [
@@ -13275,11 +13286,15 @@
     "deviceId"
   ], 
   "DisplayModeType": [
+    "browser", 
     "default display mode", 
     "display mode", 
     "display modes values", 
     "display-mode", 
-    "fallback display mode"
+    "fallback display mode", 
+    "fullscreen", 
+    "minimal-ui", 
+    "standalone"
   ], 
   "Document": [
     "DOMContentLoaded", 
@@ -14075,7 +14090,12 @@
     "IsSearchProviderInstalled()"
   ], 
   "ExternalApplicationResource": [
-    "processing the url member of an application"
+    "fingerprints", 
+    "id", 
+    "min_version", 
+    "platform", 
+    "processing the url member of an application", 
+    "url"
   ], 
   "FakeWorkletGlobalScope": [
     "registerAnArbitaryClass(type, classConstructor)"
@@ -14262,6 +14282,10 @@
     "\"both\"", 
     "\"forwards\"", 
     "\"none\""
+  ], 
+  "Fingerprint": [
+    "type", 
+    "value"
   ], 
   "FocusEvent": [
     "Constructor", 
@@ -15924,9 +15948,14 @@
     "icon", 
     "icon purposes", 
     "maskable", 
+    "platform", 
     "processing the purpose member of an image", 
     "processing the src member of an image", 
-    "processing the type member of an image"
+    "processing the type member of an image", 
+    "purpose", 
+    "sizes", 
+    "src", 
+    "type"
   ], 
   "InputEvent": [
     "Constructor", 
@@ -16893,6 +16922,9 @@
     "promise", 
     "reason"
   ], 
+  "PromptResponseObject": [
+    "userchoice"
+  ], 
   "PropertyDefinition": [
     "inherits", 
     "initialValue", 
@@ -17829,7 +17861,11 @@
   ], 
   "ServiceWorkerRegistrationObject": [
     "processing the scope member of a service worker", 
-    "processing the src member of a service worker"
+    "processing the src member of a service worker", 
+    "scope", 
+    "src", 
+    "type", 
+    "update_via_cache"
   ], 
   "ServiceWorkerState": [
     "\"activated\"", 
@@ -18065,6 +18101,11 @@
   "TextDecoderStream/TextDecoderStream(label, options)": [
     "label", 
     "options"
+  ], 
+  "TextDirectionType": [
+    "auto", 
+    "ltr", 
+    "rtl"
   ], 
   "TextEncoder": [
     "TextEncoder()", 
@@ -18610,13 +18651,24 @@
     "converting"
   ], 
   "WebAppManifest": [
+    "background_color", 
     "base direction", 
     "cannot be used together", 
+    "categories", 
     "default theme color", 
+    "description", 
+    "dir", 
     "directionality-capable members", 
+    "display", 
+    "iarc_rating_id", 
+    "icons", 
+    "lang", 
     "language tag", 
     "manifest", 
     "manifest url", 
+    "name", 
+    "orientation", 
+    "prefer_related_applications", 
     "processing the background_color member", 
     "processing the categories member", 
     "processing the lang member", 
@@ -18627,11 +18679,18 @@
     "processing the theme_color member", 
     "registration object", 
     "related application", 
+    "related_applications", 
+    "scope", 
+    "screenshots", 
+    "serviceworker", 
+    "short_name", 
     "start url", 
+    "start_url", 
     "subtags", 
     "text-direction value", 
     "text-direction values", 
     "theme color", 
+    "theme_color", 
     "usvstring"
   ], 
   "WebSocket": [
@@ -18677,6 +18736,8 @@
     "deltaZ"
   ], 
   "Window": [
+    "Window.onappinstalled", 
+    "Window.onbeforeinstallprompt", 
     "[[defaultElementStylesMap]]", 
     "[[registeredPropertySet]]", 
     "abort", 
@@ -18731,7 +18792,9 @@
     "onanimationend", 
     "onanimationiteration", 
     "onanimationstart", 
+    "onappinstalled", 
     "onauxclick", 
+    "onbeforeinstallprompt", 
     "oncancel", 
     "oncanplay", 
     "oncanplaythrough", 
@@ -19415,10 +19478,6 @@
   "annotated types": [
     "inner type"
   ], 
-  "appbannerpromptoutcome": [
-    "accepted", 
-    "dismissed"
-  ], 
   "appearance": [
     "<compat-auto>", 
     "auto", 
@@ -19524,12 +19583,6 @@
     "baseline", 
     "sub", 
     "super"
-  ], 
-  "beforeinstallpromptevent": [
-    "beforeinstallpromptevent.prompt", 
-    "beforeinstallpromptevent.prompt()", 
-    "prompt", 
-    "prompt()"
   ], 
   "binarytype": [
     "arraybuffer"
@@ -20415,12 +20468,6 @@
     "table-row", 
     "table-row-group"
   ], 
-  "displaymodetype": [
-    "browser", 
-    "fullscreen", 
-    "minimal-ui", 
-    "standalone"
-  ], 
   "document layout definition": [
     "child input properties", 
     "input properties", 
@@ -20554,13 +20601,6 @@
   ], 
   "extended attributes": [
     "applicable to types"
-  ], 
-  "externalapplicationresource": [
-    "fingerprints", 
-    "id", 
-    "min_version", 
-    "platform", 
-    "url"
   ], 
   "feBlend": [
     "in2", 
@@ -20736,10 +20776,6 @@
   "filterUnits": [
     "objectboundingbox", 
     "userspaceonuse"
-  ], 
-  "fingerprint": [
-    "type", 
-    "value"
   ], 
   "flex": [
     "<'flex-basis'>", 
@@ -21242,12 +21278,8 @@
     "none"
   ], 
   "imageresource": [
-    "platform", 
     "processing the sizes member of an image", 
-    "purpose", 
-    "sizes", 
-    "src", 
-    "type"
+    "sizes"
   ], 
   "img": [
     "alt", 
@@ -22226,9 +22258,6 @@
     "max", 
     "value"
   ], 
-  "promptresponseobject": [
-    "userChoice"
-  ], 
   "propdef-footnote-display": [
     "block", 
     "compact", 
@@ -22709,12 +22738,6 @@
     "update via cache mode", 
     "waiting worker"
   ], 
-  "serviceworkerregistrationobject": [
-    "scope", 
-    "src", 
-    "type", 
-    "update_via_cache"
-  ], 
   "set": [
     "append", 
     "clone", 
@@ -23141,11 +23164,6 @@
     "soft", 
     "wrap"
   ], 
-  "textdirectiontype": [
-    "auto", 
-    "ltr", 
-    "rtl"
-  ], 
   "texttrack": [
     "disabled", 
     "showing"
@@ -23444,26 +23462,6 @@
     "status", 
     "url"
   ], 
-  "webappmanifest": [
-    "background_color", 
-    "categories", 
-    "description", 
-    "dir", 
-    "display", 
-    "iarc_rating_id", 
-    "icons", 
-    "lang", 
-    "name", 
-    "orientation", 
-    "prefer_related_applications", 
-    "related_applications", 
-    "scope", 
-    "screenshots", 
-    "serviceworker", 
-    "short_name", 
-    "start_url", 
-    "theme_color"
-  ], 
   "white-space": [
     "break-spaces", 
     "normal", 
@@ -23486,11 +23484,7 @@
     "scroll-position"
   ], 
   "window": [
-    "customElements", 
-    "onappinstalled", 
-    "onbeforeinstallprompt", 
-    "window.onappinstalled", 
-    "window.onbeforeinstallprompt"
+    "customElements"
   ], 
   "windoworworkerglobalscope": [
     "performance", 

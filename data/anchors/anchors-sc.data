@@ -1679,7 +1679,7 @@ snapshot
 https://www.w3.org/TR/appmanifest/#dom-webappmanifest-scope
 1
 1
-webappmanifest
+WebAppManifest
 -
 scope
 dict-member
@@ -1690,7 +1690,7 @@ snapshot
 https://www.w3.org/TR/appmanifest/#dom-serviceworkerregistrationobject-scope
 1
 1
-serviceworkerregistrationobject
+ServiceWorkerRegistrationObject
 -
 scope
 dfn
@@ -2684,7 +2684,7 @@ snapshot
 https://www.w3.org/TR/appmanifest/#dom-webappmanifest-screenshots
 1
 1
-webappmanifest
+WebAppManifest
 -
 script
 dfn
