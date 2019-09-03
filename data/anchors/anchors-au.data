@@ -3562,6 +3562,26 @@ https://svgwg.org/svg2-draft/struct.html#SVGElementAutofocusAttribute
 1
 core-attributes
 -
+autofocus candidates
+dfn
+html
+html
+1
+snapshot
+https://html.spec.whatwg.org/multipage/interaction.html#autofocus-candidates
+
+1
+-
+autofocus processed flag
+dfn
+html
+html
+1
+snapshot
+https://html.spec.whatwg.org/multipage/interaction.html#autofocus-processed-flag
+
+1
+-
 automated install prompt
 dfn
 appmanifest

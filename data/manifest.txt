@@ -1,8 +1,8 @@
-2019-09-03 15:39:09.803023
-b07fdb60bda923a49da318809fdc08e2 fors.json
+2019-09-03 17:40:20.784708
+34311709420ecbd825b3c2c89e830211 fors.json
 9e4195faa2d230342621b63dc37b6dd9 specs.json
 5e193719fcdbfb86c011565fc4fdbd4f methods.json
-c84bfbde9ab33828f555f1dcaf401d5e wpt-tests.txt
+0785861abc9e70f333913cb196273251 wpt-tests.txt
 7dffb9798f9b23ba9c6b5826e12076b2 languages.json
 e7d53991fca1de5fd47c7bd582f3a118 biblio-keys.json
 a6b0af828db95757ac1bcc25e3c18fcd test-suites.json
@@ -40,7 +40,7 @@ ac03229c89a892eac6e1ff30e85df32f anchors/anchors-ag.data
 7ed09ca97e1fa8adaba989137b704ceb anchors/anchors-ar.data
 b3a4dafec15b6643fa835c17d26d1ea3 anchors/anchors-as.data
 f80a8b4c0571851f8d3531bebf07654d anchors/anchors-at.data
-22f9249af5b2fe7f477f2aa190ce8617 anchors/anchors-au.data
+c82530aed867e2135be324bd57fc48b0 anchors/anchors-au.data
 9fe59b3e2b4d221c9d72f379f4677e69 anchors/anchors-av.data
 57ec90ba2489af760c776975e415645b anchors/anchors-aw.data
 5e299a9afd13874cbe8f410eafc7cf6d anchors/anchors-ax.data
@@ -120,7 +120,7 @@ ef7ad73ce958811be389935fda2dda5d anchors/anchors-fa.data
 797977b4ba82d8d362f28d82ef195b6b anchors/anchors-fe.data
 498b6f2d53508d8a5d183cfc7188becc anchors/anchors-fg.data
 8adb6517db73b514b55266ca68a54f4e anchors/anchors-fi.data
-63b06921aa32449dce7423388a3c0a44 anchors/anchors-fl.data
+a52d66d6dddfb112ca3ece467b198f57 anchors/anchors-fl.data
 48bbaea642f324aa2eb84fd43c33ce67 anchors/anchors-fn.data
 92c82762c06b78aeca2ec1b3c698cf5b anchors/anchors-fo.data
 a7efed49026952598bcbaf26cb0c52ed anchors/anchors-fr.data
