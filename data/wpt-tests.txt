@@ -1,4 +1,4 @@
-sha: 02e1c03ed4e47006acd2d40f0c9c679f7f9db52d
+sha: f4dd5492389f5da9510a6361f75690fae70afb79
 manual 2dcontext/conformance-requirements/2d.coordinatespace-manual.html
 manual 2dcontext/drawing-paths-to-the-canvas/canvas_focus_drawFocusIfNeeded_AAPI_001-manual.html
 manual 2dcontext/drawing-text-to-the-canvas/2d.text.draw.fill.basic-manual.html
@@ -21344,6 +21344,7 @@ testharness css/CSS2/floats/zero-space-between-floats-003.html
 testharness css/CSS2/floats/zero-space-between-floats-004.html
 testharness css/CSS2/linebox/inline-children-root-linebox-crash-001.html
 testharness css/CSS2/linebox/inline-negative-margin-001.html
+testharness css/CSS2/linebox/video-needs-layout-crash.html
 testharness css/CSS2/normal-flow/auto-margins-root-element.html
 testharness css/CSS2/normal-flow/containing-block-percent-margin-bottom.html
 testharness css/CSS2/normal-flow/containing-block-percent-margin-left.html
