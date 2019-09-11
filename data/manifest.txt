@@ -1,4 +1,4 @@
-2019-09-11 02:39:21.524168
+2019-09-11 03:39:07.788413
 7db4cbcf0ced40a4cef5260b4eefbc25 fors.json
 28b586dd3acb46a41a9727888e30374b specs.json
 94969329b65c5c39a9ea8185fc29745e methods.json
@@ -400,7 +400,7 @@ c4fce104fde3ed67717317d20ea22c0a biblio/biblio-aa.data
 729bfccfc6e5b69fd4467c1f5bf54ea0 biblio/biblio-am.data
 63bcaef0bd17e9fe906f4e96070d83ca biblio/biblio-an.data
 cf6fd023d4ff1e50cc9aede6e269071b biblio/biblio-ao.data
-7a4c9b25cf96866d251260a0f255f35c biblio/biblio-ap.data
+81ab19879ef216e81736289de43a2c9a biblio/biblio-ap.data
 57c7b3282ea19328991576c76f9c0530 biblio/biblio-ar.data
 e5b17dbf520779bb9c4e78f50ffc7698 biblio/biblio-as.data
 72ae6715497e58805a8939edbad74da4 biblio/biblio-at.data
@@ -412,7 +412,7 @@ cdd904f072695d3c86c3eeb5baa93cca biblio/biblio-au.data
 ade98d559e6dadbc6bb7002d6f96924a biblio/biblio-bc.data
 1283766d9fd0c0ff6285df6a4911b210 biblio/biblio-be.data
 a9c7943e45e3bb0fb3bb889937220146 biblio/biblio-bi.data
-4cc51507d80094e54362ad5b9926eea7 biblio/biblio-bl.data
+bd4103ebb8a287b02185dd9821e49ef4 biblio/biblio-bl.data
 0ab7308bffa88363fe19a951b9795e5a biblio/biblio-bo.data
 3e208da3df4078a330313aa7b01d670b biblio/biblio-br.data
 21e73c370ba78406a5b8fa8588938e33 biblio/biblio-bu.data
@@ -472,7 +472,7 @@ dbc94c0e05340acad8d872ea422b9bc4 biblio/biblio-eu.data
 3edc9e3d7703e66e19d7dc5d9b976ec9 biblio/biblio-ew.data
 2dad2f6055ba99207b46f5d2233eabe9 biblio/biblio-ex.data
 7542d9bc33e495275ba9c43e0d00af94 biblio/biblio-fe.data
-48662063ee8c46e32a5d8ab5c824c2f7 biblio/biblio-fi.data
+67d60a6c52878fde3dc627849a7d9641 biblio/biblio-fi.data
 505f10e18c6d1c307320268b8b6dd447 biblio/biblio-fl.data
 2cc2df1fb834af0579e29727ba05a0b3 biblio/biblio-fo.data
 7652f8ed3de9860d451db474ca512591 biblio/biblio-fr.data
@@ -670,7 +670,7 @@ ff1467acfff7c73ea8e999fef11bcfec biblio/biblio-wa.data
 ef1443d758854b90a4bd163231e780d7 biblio/biblio-wb.data
 b2e184618331c2401944ccb717a14570 biblio/biblio-wc.data
 85b2eea25ee4fb2b66d78d2c0ae5b012 biblio/biblio-wd.data
-2f0b4344585c37230d67c038fae8116c biblio/biblio-we.data
+df2242d9e86e63a8a904032d8dee3656 biblio/biblio-we.data
 1a5f7db0d1070f153c617556831961fd biblio/biblio-wf.data
 16b6eae97118fe0d84cd28a7547ed15a biblio/biblio-wg.data
 72e42c8ea75a92eda6e042bdb9d91b7c biblio/biblio-wh.data
