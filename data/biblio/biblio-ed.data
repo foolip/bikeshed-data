@@ -27344,12 +27344,34 @@ https://wg21.link/edit3238
 
 
 -
+d:edit3239
+EDIT3239
+
+open
+[std] Improve indexing of standard library headers.
+https://wg21.link/edit3239
+
+
+
+
+-
 d:edit324
 EDIT324
 
 closed
 bad formatting of 'see' for 'conditionally-supported behavior' index entry
 https://wg21.link/edit324
+
+
+
+
+-
+d:edit3240
+EDIT3240
+
+open
+[ostream.iterator] Correct typo
+https://wg21.link/edit3240
 
 
 
